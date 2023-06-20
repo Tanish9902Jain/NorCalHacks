@@ -1,0 +1,23 @@
+.navele_one {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  color: aqua;
+  height: 50px;
+  padding: auto;
+  text-decoration: none;  
+  padding: 20px;
+  margin-left: 700px;
+  /* align-self:flex-end; */
+  margin-top: 10px;
+}
+.navele {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  color: aqua;
+  height: 50px;
+  text-decoration: none;  
+  padding: 20px;
+  /* align-self:flex-end; */
+}
