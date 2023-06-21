@@ -1,5 +1,5 @@
 .navele_one {
-  font-size: 20px;
+  font-size: 26px;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
   color: aqua;
@@ -7,12 +7,14 @@
   padding: auto;
   text-decoration: none;  
   padding: 20px;
-  margin-left: 700px;
+  margin-left: 0px;
   /* align-self:flex-end; */
-  margin-top: 10px;
+  margin-top: 50px;
+  vertical-align: middle;
+  float: left;
 }
 .navele {
-  font-size: 20px;
+  font-size: 26px;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
   color: aqua;
@@ -20,4 +22,18 @@
   text-decoration: none;  
   padding: 20px;
   /* align-self:flex-end; */
+  margin-top: 50px;
+  align-items: right;
+  float: left;
+  
+}
+
+#logo {
+  float: left;
+  align-items: center;
+  margin-right: 600px;
+}
+
+.navbar {
+  position: fixed;
 }
